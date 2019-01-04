@@ -430,6 +430,9 @@ header .downlad-btn:hover {
 /* ---------------------------------
 6. ABOUT SECTION
 --------------------------------- */
+.about-section {
+	background-color: aqua;
+}
 
 .radial-progress {
 	position: relative;
@@ -497,6 +500,7 @@ header .downlad-btn:hover {
 
 .education-wrapper {
 	position: relative;
+	background-color: #333;
 }
 
 .education-wrapper:after {
@@ -506,7 +510,7 @@ header .downlad-btn:hover {
 	bottom: 0;
 	left: -51px;
 	width: 2px;
-	background: #ccc;
+	background: #333;
 }
 
 .education-wrapper .education {

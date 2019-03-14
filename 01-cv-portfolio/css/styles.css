@@ -144,6 +144,7 @@ a b.light-color:hover {
 
 b {
 	font-weight: 600;
+	color: #FFA804;
 }
 
 img {
@@ -382,7 +383,7 @@ header .downlad-btn:hover {
 --------------------------------- */
 
 .portfolio-section {
-	padding-bottom: 0;
+	padding-bottom: 40px;
 	background-color: white;
 }
 
